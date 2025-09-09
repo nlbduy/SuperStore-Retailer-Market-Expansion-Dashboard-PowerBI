@@ -1,4 +1,4 @@
-# **Superstore Sales Analysis Dashboard with Power BI**
+# **Superstore Detailer Market and Product Strategy Dashboard with Power BI**
 
 Author: Nguyen Luu Bao Duy
 
