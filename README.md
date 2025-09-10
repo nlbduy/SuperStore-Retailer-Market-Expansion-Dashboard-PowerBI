@@ -106,8 +106,8 @@ This project uses the well-known *Global Superstore* dataset to build a Power BI
 **Relationships between tables**
 | From Table | Relationship | To Table | Join Keys |
 | :--- | :--- | :--- | :--- |
-| `Orders` | one-to-one | `Returns` | `Orders.Order ID` = `Returns.Order ID` |
-| `Orders` | Many-to-one | `People` | `Orders.Region` = `People.Region` |
+| `Orders` | One-to-One | `Returns` | `Orders.Order ID` = `Returns.Order ID` |
+| `Orders` | Many-to-One | `People` | `Orders.Region` = `People.Region` |
 
 
 ## **🗓️** Time Frame
