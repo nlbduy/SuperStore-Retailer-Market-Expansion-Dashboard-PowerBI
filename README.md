@@ -128,7 +128,7 @@ This analysis uses a process called “Design Thinking” to generate ideas and 
  
 2️⃣ **Define Point Of View**
 
-<img width="2000" height="579" alt="Image" src="https://github.com/user-attachments/assets/a5c54a01-675a-49a3-8b55-a042953ec8cd" />
+<img width="2000" height="539" alt="Image" src="https://github.com/user-attachments/assets/5ce08cd6-d9bb-4cca-8ef9-eaf0395ac9db" />
 
 3️⃣ **Ideate**
 
