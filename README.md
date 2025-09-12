@@ -119,6 +119,34 @@ This project uses the well-known *Global Superstore* dataset to build a Power BI
 
 This analysis uses a process called “Design Thinking” to generate ideas and solve problems.
 
+## **What is Design Thinking?**
+
+Design Thinking is a **human-centered, iterative approach to problem-solving** that emphasizes understanding users, redefining problems, and creating innovative solutions through rapid prototyping and testing.
+
+It is built on 5 stages:
+
+1. **Empathize** – deeply understand the needs, pain points, and goals of users.
+2. **Define** – clearly articulate the problem statement.
+3. **Ideate** – generate a wide range of creative solutions.
+4. **Prototype** – build quick, tangible versions of the solution.
+5. **Test** – validate with users, gather feedback, and refine.
+
+Unlike linear methods, Design Thinking is flexible and iterative, allowing teams to circle back when new insights emerge. It balances **desirability (user needs)**, **feasibility (technical capabilities)**, and **viability (business goals)**.
+
+## **Why Design Thinking for BI projects?**
+
+Business Intelligence (BI) initiatives often struggle when they focus too much on **tools, data models, and dashboards** while overlooking **actual user needs**. Design Thinking ensures BI solutions are not just technically correct but **practically impactful**.
+
+Key reasons:
+
+- **User-centric dashboards & reports**: BI outputs directly address decision-makers’ real challenges rather than overwhelming them with unused metrics.
+- **Alignment with business goals**: Encourages defining the “why” behind every visualization or KPI, preventing data for data’s sake.
+- **Collaboration across roles**: Breaks silos between business users, analysts, and IT by co-creating solutions.
+- **Faster iteration**: Prototyping dashboards early helps validate insights before heavy data engineering investment.
+- **Higher adoption**: When end-users are involved from the start, BI solutions are more intuitive, actionable, and widely adopted.
+
+👉 In short, Design Thinking makes BI projects move from **“just reporting”** to **“strategic decision support”** by combining data with empathy, creativity, and business context.
+
 1️⃣ **Empathize**
 
 <img width="2000" height="434" alt="Image" src="https://github.com/user-attachments/assets/7c2fabfa-318d-4ac2-8e97-a6bab3564535" />
