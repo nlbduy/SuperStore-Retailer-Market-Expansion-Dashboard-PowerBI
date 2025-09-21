@@ -1,4 +1,6 @@
-# **Superstore Detailer Market and Product Strategy Dashboard with Power BI**
+# **SuperStore Retailer Market and Product Strategy Dashboard with Power BI**
+
+<img width="2000" height="833" alt="Image" src="https://github.com/user-attachments/assets/13aaaf46-70db-4052-8c09-87f7883e5ec5" />
 
 Author: Nguyen Luu Bao Duy
 
@@ -21,11 +23,11 @@ Tool Used: Power BI
 
 ## **🎯 Project Objectives**
 
-This project uses the well-known *Global Superstore* dataset to build a Power BI dashboard for the Executive Board to make data-informed strategic decisions of market expansion. Our main goals are:
+This project uses the well-known ***Global SuperStore*** dataset to build a Power BI dashboard for the Executive Board to make data-informed strategic decisions of **market expansion**. Our main goals are:
 
-- Gain a holistic overview of the company's business market over the years.
-- Observe the growth trends of key performance indicators (KPIs).
-- Understand the profit mechanism to formulate strategies for market improvement and expansion.
+- Gain a holistic **overview** of the company's business market over the years.
+- Observe the **growth trends** of key performance indicators (KPIs).
+- Understand the **profit mechanism** to formulate strategies for market improvement and expansion.
 
 ## **👥 Target audience**
 
@@ -38,7 +40,7 @@ This project uses the well-known *Global Superstore* dataset to build a Power BI
 
 ## **📝 Data Description**
 
-- Context: Global Superstore is **a fictional online retailer** that sells office supplies, furniture, and technology products globally.
+- Context: Global SuperStore is **a fictional online retailer** that sells office supplies, furniture, and technology products globally.
 - The dataset includes 3 tables: Orders, Returns, and People
 - Size:
     - Orders: 51290 records
@@ -56,7 +58,8 @@ This project uses the well-known *Global Superstore* dataset to build a Power BI
 
 **2️⃣ Table Schemas**
 
-**Orders Table**
+<details>
+<summary><b>Orders Table</b></summary>
 
 | Field Name | Type | Description |
 | :--- | :--- | :--- |
@@ -81,8 +84,10 @@ This project uses the well-known *Global Superstore* dataset to build a Power BI
 | **Quantity** | `Integer` | The quantity of products sold. |
 | **Profit** | `Float` | The profit from the transaction. |
 
+</details>
 
-**Returns Table**
+<details>
+<summary><b>Returns Table</b></summary>
 
 | Field Name | Type | Description |
 | :--- | :--- | :--- |
@@ -90,14 +95,17 @@ This project uses the well-known *Global Superstore* dataset to build a Power BI
 | **Order ID** | `String` | The unique identifier of the returned order. This field can be used to join with the `Orders` table. |
 | **Region** | `String` | The geographical region where the return occurred. |
 
+</details>
 
-**People Table**
+<details>
+<summary><b>People Table</b></summary>
 
 | Field Name | Type | Description |
 | :--- | :--- | :--- |
 | **Person** | `String` | The name of the sales person. |
 | **Region** | `String` | The geographical region this person is responsible for. This field can be used to join with the `Orders` table to analyze sales by person. |
 
+</details>
 
 **3️⃣ Data Relationships**
 
@@ -119,7 +127,7 @@ This project uses the well-known *Global Superstore* dataset to build a Power BI
 
 This analysis uses a process called “Design Thinking” to generate ideas and solve problems.
 
-## **What is Design Thinking?**
+## **What is Design Thinking and Why it matters for BI projects?**
 
 Design Thinking is a **human-centered, iterative approach to problem-solving** that emphasizes understanding users, redefining problems, and creating innovative solutions through rapid prototyping and testing.
 
@@ -133,8 +141,6 @@ It is built on 5 stages:
 
 Unlike linear methods, Design Thinking is flexible and iterative, allowing teams to circle back when new insights emerge. It balances **desirability (user needs)**, **feasibility (technical capabilities)**, and **viability (business goals)**.
 
-## **Why Design Thinking for BI projects?**
-
 Business Intelligence (BI) initiatives often struggle when they focus too much on **tools, data models, and dashboards** while overlooking **actual user needs**. Design Thinking ensures BI solutions are not just technically correct but **practically impactful**.
 
 Key reasons:
@@ -147,22 +153,25 @@ Key reasons:
 
 👉 In short, Design Thinking makes BI projects move from **“just reporting”** to **“strategic decision support”** by combining data with empathy, creativity, and business context.
 
-1️⃣ **Empathize**
+## 1️⃣ Stage 1: Empathize
 
-<img width="2000" height="434" alt="Image" src="https://github.com/user-attachments/assets/7c2fabfa-318d-4ac2-8e97-a6bab3564535" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/76bc3740-c881-48b9-a17d-fa2acc550b82" />
 
-<img width="2000" height="711" alt="Image" src="https://github.com/user-attachments/assets/71b13d90-6f20-4fbd-9d8f-4b8ad79d9961" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/9fae003e-dc75-466e-a573-47f3ca258d75" />
 
- 
-2️⃣ **Define Point Of View**
+## 2️⃣ Stage 2: Define Point Of View
 
-<img width="2000" height="539" alt="Image" src="https://github.com/user-attachments/assets/5ce08cd6-d9bb-4cca-8ef9-eaf0395ac9db" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/995abc1c-e468-46f9-84e4-3fa9fa312469" />
 
-3️⃣ **Ideate**
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/fe4b4baa-96ea-4cb5-81da-1504f266a627" />
 
-<img width="2000" height="533" alt="Image" src="https://github.com/user-attachments/assets/6e20ea2f-5942-4c96-896d-636db71e24ed" />
+## 3️⃣ Stage 3: Ideate
 
-4️⃣ **Prototype and review**
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/93884e9d-f105-4a4c-b20c-b229e9d56c1c" />
+
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/ae5abd19-beae-42a2-b5b7-41754b3827f7" />
+
+## 4️⃣ Prototype and review
 
 This part is in the dashboard
 
@@ -172,8 +181,7 @@ This part is in the dashboard
 
 **1️⃣ Business Overview**
 
-<img width="2000" height="1129" alt="Image" src="https://github.com/user-attachments/assets/0b4f5738-56e9-4809-ac7a-0313cf4e1d8b" />
-
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/85fe9694-b51b-4ee9-b210-2ca85ed408ca" />
 
 **📌 Key Findings**
 
@@ -182,12 +190,13 @@ This part is in the dashboard
     - **APAC and EU** are the strongest markets, contributing the highest profits (**$486K and $373K**, respectively).
     - **US and LATAM** deliver moderate profit contributions with average margins.
     - **Africa and EMEA** show weak performance with very low profitability.
-    - Notably, **Canada** generates the lowest profit (~$18K) but records an exceptionally high profit margin (**26.6%**), indicating a niche high-margin segment possibility.
+    - Notably, **Canada** generates the lowest profit (~$18K) but records an exceptionally high profit margin (**26.62%**), indicating a niche high-margin segment possibility.
 - **Country-Level Contribution**:
     - **Top-performing countries**: United States (**$286K**), China (**$150K**), and India (**$129K**).
     - **Second-tier contributors**: Several European countries (France, Germany, Austria, Belgium, Switzerland) and Australia, each contributing **$103K–112K**.
     - **Low contributors**: Most remaining countries generate less than **$55K** profit.
     - **Underperforming countries**: Some markets even record **negative profits**, highlighting inefficiencies or unfavorable business conditions.
+    - 
 - **Product Category Performance**: **Technology** is the primary profit driver (**$664K**), while **Furniture** delivers the lowest profit contribution. **Office Supplies** remains in the middle, offering room for selective growth opportunities.
 - **Return Rate Trends**:
     - **APAC and LATAM** show an improving trend with declining return rates over time.
