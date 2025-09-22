@@ -181,7 +181,7 @@ This part is in the dashboard
 
 **1️⃣ Business Overview**
 
-<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/85fe9694-b51b-4ee9-b210-2ca85ed408ca" />
+<img width="2000" height="1142" alt="Image" src="https://github.com/user-attachments/assets/a3472560-5349-402a-afd8-0ed7ea4f443a" />
 
 **📌 Key Findings**
 
@@ -196,7 +196,18 @@ This part is in the dashboard
     - **Second-tier contributors**: Several European countries (France, Germany, Austria, Belgium, Switzerland) and Australia, each contributing **$103K–112K**.
     - **Low contributors**: Most remaining countries generate less than **$55K** profit.
     - **Underperforming countries**: Some markets even record **negative profits**, highlighting inefficiencies or unfavorable business conditions.
-    - 
+    - Based on two key dimensions - **growth momentum** and **business profitability** - the countries are categorized into **5 distinct performance groups**:
+      
+      1. **Profit Growing**: Countries with a positive profit margin and positive YoY growth. This group represents **strong and sustainable performers** - they are both profitable and expanding, signaling solid market positions and effective business operations.
+  
+      2. **Profit Declining**: Countries with a positive profit margin but negative YoY growth. These markets **remain profitable**, but **their growth momentum is slowing down**. They are at risk of eroding profitability if the declining trend continues.
+  
+      3. **Loss Narrowing**: Countries with a negative profit margin but positive YoY growth. These are **recovering markets**. Despite current losses, they show early signs of improvement and have the potential to return to profitability if the positive trend persists.
+  
+      4. **Loss Widening**: Countries with a negative profit margin and negative YoY growth. These represent **high-risk markets**, where operations are both unprofitable and worsening. They may require restructuring, scaling down, or even exit decisions if no turnaround plan is viable.
+  
+      5. **New - Reactivated**: Countries with **newly established operations** or with **inconsistent profit history**. These markets are emerging or unstable, requiring close monitoring. While they may present growth opportunities, the lack of consistent profitability makes them riskier to rely on in the short term.
+
 - **Product Category Performance**: **Technology** is the primary profit driver (**$664K**), while **Furniture** delivers the lowest profit contribution. **Office Supplies** remains in the middle, offering room for selective growth opportunities.
 - **Return Rate Trends**:
     - **APAC and LATAM** show an improving trend with declining return rates over time.
@@ -204,12 +215,12 @@ This part is in the dashboard
 
 **2️⃣ Trend Analysis**
 
-<img width="2000" height="1142" alt="Image" src="https://github.com/user-attachments/assets/2d0a31d4-a31d-4c29-9803-48d16ff01e03" />
+<img width="2000" height="1142" alt="Image" src="https://github.com/user-attachments/assets/820cf724-e474-4052-b326-7f0684aea084" />
 
 **📌 Key Findings**
 
 - **Revenue & Sales Growth**
-    - Total sales doubled within four years, increasing steadily from **$2M in 2011 to $4M in 2014**.
+    - Total sales doubled within four years, increasing steadily from **$2.26M in 2011 to $4.30M in 2014**.
     - This demonstrates strong scalability and consistent market expansion.
 - **Profit Growth**
     - Net profit grew in parallel, from **$249K in 2011 to $504K in 2014**.
@@ -222,18 +233,23 @@ This part is in the dashboard
     - This positive trend indicates better control over product quality, fulfillment, or customer satisfaction.
 - **Unprofitable Orders (Loss Order Rate)**
     - Roughly **30% of all orders have been consistently unprofitable** over the 4-year period, fluctuating only slightly between 29–31%.
-    - This represents a **structural issue in pricing, discounting, or product portfolio strategy**, rather than a temporary fluctuation.
+    - This represents an **issue in pricing, discounting, or product portfolio strategy**, rather than a temporary fluctuation.
     - Without intervention, such a high share of unprofitable orders risks undermining overall business scalability.
+- A clear **seasonal pattern** emerges, with **sales**, **orders**, and **profit** consistently peaking in **Q4** each year. This surge is typically followed by a decline or slight correction in Q1 of the following year. Such dynamics strongly suggest a **holiday-driven** or **year-end sales** effect.
 
 **3️⃣ Profit Analysis**
 
-<img width="2000" height="1113" alt="Image" src="https://github.com/user-attachments/assets/05a631e1-109d-49d3-ab97-902f15714a7c" />
+<img width="2000" height="1142" alt="Image" src="https://github.com/user-attachments/assets/ea64440d-7ccd-4ed8-8c73-c74d65bf04c6" />
 
 **📌 Key Findings**
 
 - **Profit Drivers vs. Volume**
-    - Certain products demonstrate strong performance on both sales and profit, e.g., **TEC-CO-10004722 (Sales ≈ $61.6K, Profit ≈ $25.2K, Margin ≈ 40%)**. These represent **“cash cows”** that can be scaled further.
-    - Other products show **exceptionally high margins with moderate sales** (e.g., **OFF-AP-10004512, Margin ≈ 48.9%, Sales ≈ $21.1K**). These are opportunities for **strategic upselling or marketing to increase volume**.
+  - High sales volume does not always translate into profitability. Product performance can be grouped into **4 clusters**:
+    - **Stars** - High growth, high margin. True **growth drivers** that deliver both revenue and efficiency, deserving top priority.
+    - **Profit Protectors** - Low growth, stable margins. **Reliable contributors** that should be maintained for stability.
+    - **Volume Traps** - High growth but low/negative margin. Increased sales amplify losses as costs outweigh revenue; require s**trict cost control** or **pricing adjustments**.
+    - **Underperformers** - Low growth, low/negative margin. Candidates for **rationalization** or **elimination**.
+  - Strategic focus should balance growth and efficiency, ensuring resources are allocated to products that generate both revenue and sustainable profitability.
 - **Market Profitability vs. Risk Exposure**
     - **APAC and EU** are the largest profit contributors.
     - However, **APAC carries the highest unprofitable-order rate (≈37%)**, suggesting that while it is profitable, **growth comes with the elevated risk of loss-making orders**.
@@ -265,7 +281,6 @@ This part is in the dashboard
     - **China**: focus on reducing Return Rate by improving product quality and customer communication.
     - **India**: leverage strong growth potential with targeted promotions in Technology, while closely monitoring cost structures.
 
----
 
 ### **🏰 EU Market**
 
@@ -281,7 +296,6 @@ This part is in the dashboard
     - **France**: emphasize Office Supplies to balance portfolio risk.
     - Strengthen cost management initiatives to stabilize margins and reduce Loss Order Rate.
 
----
 
 ### **🗽 US Market**
 
@@ -310,7 +324,6 @@ This part is in the dashboard
 - 🟢 = Portfolio Stabilizer
 - ⚠️ = Secondary or Watchlist
 
----
 
 ### **💡Cross-Market Strategic Priorities**
 
@@ -333,7 +346,6 @@ This part is in the dashboard
 - Provide accurate, transparent product information to align customer expectations.
 - Enhance after-sales support and streamline return handling to improve customer satisfaction while reducing costs.
 
----
 
 ### **🔮 Strategic Outlook**
 
