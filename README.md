@@ -215,7 +215,7 @@ This part is in the dashboard
 
 **2️⃣ Trend Analysis**
 
-<img width="2000" height="1142" alt="Image" src="https://github.com/user-attachments/assets/820cf724-e474-4052-b326-7f0684aea084" />
+<img width="2000" height="1142" alt="Image" src="https://github.com/user-attachments/assets/a43d9afe-00b1-49f8-b8c2-30301f5f6494" />
 
 **📌 Key Findings**
 
