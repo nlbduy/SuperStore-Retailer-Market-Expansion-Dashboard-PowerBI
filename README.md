@@ -155,21 +155,21 @@ Key reasons:
 
 ## 1️⃣ Stage 1: Empathize
 
-<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/76bc3740-c881-48b9-a17d-fa2acc550b82" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/057b4fd7-d5c3-492f-92b5-784d3172c7e7" />
 
-<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/9fae003e-dc75-466e-a573-47f3ca258d75" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/a6055719-fdb8-4763-9736-fe2da8b94a1e" />
 
 ## 2️⃣ Stage 2: Define Point Of View
 
-<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/995abc1c-e468-46f9-84e4-3fa9fa312469" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/422461ef-97b4-40b6-8c2b-dabb2aeaafa1" />
 
-<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/fe4b4baa-96ea-4cb5-81da-1504f266a627" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/d86bfdf3-19c1-4a1a-a792-f30633f73769" />
 
 ## 3️⃣ Stage 3: Ideate
 
-<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/93884e9d-f105-4a4c-b20c-b229e9d56c1c" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/ca37076a-dc08-48b7-83c8-2c6f6a49045a" />
 
-<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/ae5abd19-beae-42a2-b5b7-41754b3827f7" />
+<img width="2000" height="1125" alt="Image" src="https://github.com/user-attachments/assets/958a035c-4f3a-47e8-8c08-97597da2bf85" />
 
 ## 4️⃣ Prototype and review
 
