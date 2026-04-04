@@ -249,7 +249,9 @@ The underperformance of the Furniture category is not rooted in mispricing or op
 - **Stable Cost Structure**: The COGS-to-Gross Revenue ratio for Furniture is only approximately **2%** higher than the other two categories, while Shipping Costs remain well-controlled at comparable levels (**~11.45%**).
 - **Heavy Discounting Impact**: Furniture has the highest proportion of discounted products, with **nearly 55% of items sold under promotion**. Specifically, medium-to-heavy discounts (20% or higher) account for nearly 43% of sales.
 - **Margin Depletion**: Data shows that **discounts erode 18.56% of Furniture's gross revenue**. Given that gross margins for this category are naturally slimmer, this heavy discounting significantly compromises net profitability.
+  
   <img width="300" height="240" alt="Image" src="https://github.com/user-attachments/assets/84bc13e3-75a1-42c3-b430-c2bfe88efd43" />
+  
 - **Return Risk**: Furniture also records a **high Return Rate** with significant return values. Due to the bulky nature of these items, returns result in substantial losses through reverse logistics costs and potential product damage.
 
 **Operational Dynamics: AOV vs. Quantity**
